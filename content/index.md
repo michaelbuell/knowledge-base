@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Recovery and Sobriety Resource Library
 ---
-## The index page
+## Recovery and Sobriety Resource Library
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+A knowledge base providing tools and information for individuals overcoming addiction.
 
 ## Editing pages
 
