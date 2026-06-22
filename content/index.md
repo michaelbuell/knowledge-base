@@ -11,6 +11,15 @@ tags:
 - sobriety  
 - addiction  
 ---
+## Main Categories
+- [[01-understanding-addiction/index|Understanding Addiction]]
+- [[02-recovery-foundations/index|Recovery Foundations]]
+- [[03-relapse-prevention-trigger-management/index|Relapse Prevention and Trigger Management]]
+- [[04-mental-health-and-healing/index|Mental Health and Healing]]
+- [[05-faith-purpose-identity/index|Faith, Purpose and Identity]]
+- [[06-relationships-and-support-systems/index|Relationships and Support Systems]]
+- [[07-recovery-resources-success-stories/index|Recovery Resources and Success Stories]]
+
 ## Recovery and Sobriety Resources
 
 A knowledge base providing tools and information for individuals overcoming addiction.
