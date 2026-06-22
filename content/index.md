@@ -1,7 +1,17 @@
 ---
-title: Recovery and Sobriety Resource Library
+title: Recovery & Sobriety Resource Library  
+type: knowledge-base-home  
+description: Central hub for recovery, sobriety, mental health, faith, and support resources.  
+author: Michael Buell  
+date_created: 2026-06-22  
+last_updated: 2026-06-22  
+status: active  
+tags:  
+- recovery  
+- sobriety  
+- addiction  
 ---
-## Recovery and Sobriety Resource Library
+## Recovery and Sobriety Resources
 
 A knowledge base providing tools and information for individuals overcoming addiction.
 
