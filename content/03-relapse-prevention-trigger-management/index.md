@@ -13,3 +13,7 @@ tags:
 - triggers
 - cravings
 ---
+
+## Related Categories
+
+Effective relapse prevention depends on the recovery principles, healthy routines, and support systems established through [[02-recovery-foundations/index|Recovery Foundations]].
