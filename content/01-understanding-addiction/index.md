@@ -11,8 +11,7 @@ tags:
 - addiction  
 - education
 ---
-
-# Understanding Addiction: Table of Contents
+# Table of Contents
 
 - [[1. What Is Addiction - Understanding More Than the Substance|What is Addiction - Understanding More Than the Substance]]
 	An overview of what addiction is, how it develops, and why understanding it is an important first step toward recovery.
