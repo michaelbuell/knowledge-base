@@ -2,28 +2,74 @@
 title: Understanding Addiction  
 type: category-index  
 category: Understanding Addiction  
-summary: Educational resources explaining addiction, dependency, trauma, and the science behind substance abuse.  
-recovery_stage:  
-- Considering Change  
-- Early Recovery  
-status: published  
-tags:  
-- addiction  
-- education
+summary: Articles explaining addiction, its causes and cycles, common misconceptions, and the possibility of recovery.  
+status: complete  
+date_created: 2026-06-22  
+last_updated: 2026-07-26  
+tags:
+  - addiction
+  - education
+  - trauma
+  - recovery
+  - category-index
 ---
-# Table of Contents
 
-- [[1. What Is Addiction - Understanding More Than the Substance|What is Addiction - Understanding More Than the Substance]]
-	An overview of what addiction is, how it develops, and why understanding it is an important first step toward recovery.
+# Understanding Addiction
 
-- [[2. The Addiction Cycle - Why Breaking Free Is So Difficult|The Addiction Cycle - Why Breaking Free Is So Difficult]]
-	An explanation of the addiction cycle and why recognizing its patterns is essential for long-term recovery.
+---
 
-- [[3. Trauma and Addiction - Understanding the Connection|Trauma and Addiction - Understanding the Connection]]
-	Exploring how trauma, stress, and emotional pain can contribute to addiction and why healing requires addressing more than the substance itself.
+## Category Overview
 
+This category provides a basic introduction to addiction. It explains why addiction involves more than poor choices or weak willpower and examines some of the emotional, behavioral, environmental, and biological factors that can contribute to it.
+
+These pages are intended to reduce confusion and shame while preparing readers for the practical recovery information found in later categories.
+
+---
+
+## Pages in This Category
+
+### 1. [[1. What Is Addiction - Understanding More Than the Substance|What Is Addiction? Understanding More Than the Substance]]
+
+Introduces addiction as a complex condition involving behavior, emotions, environment, habits, and changes in the brain.
+
+### 2. [[2. The Addiction Cycle - Why Breaking Free Is So Difficult|The Addiction Cycle: Why Breaking Free Is So Difficult]]
+
+Explains the repeating pattern of triggers, cravings, substance use, temporary relief, and negative consequences.
+
+### 3. [[3. Trauma and Addiction - Understanding the Connection|Trauma and Addiction: Understanding the Connection]]
+
+Discusses how painful or traumatic experiences may contribute to substance use and why trauma-informed support can matter.
+
+### 4. [[4. Common Myths and Misconceptions About Addiction|Common Myths and Misconceptions About Addiction]]
+
+Corrects common beliefs about willpower, rock bottom, relapse, and what recovery actually involves.
+
+### 5. [[5. Why Recovery Is Possible - Hope Through Understanding|Why Recovery Is Possible: Hope Through Understanding]]
+
+Explains why people can change and why recovery should be viewed as an ongoing process rather than one perfect decision.
+
+---
+
+## Suggested Reading Order
+
+For a general introduction, read the pages in the order listed above.
+
+Readers already familiar with addiction may begin with:
+
+- [[3. Trauma and Addiction - Understanding the Connection|Trauma and Addiction: Understanding the Connection]]
 - [[4. Common Myths and Misconceptions About Addiction|Common Myths and Misconceptions About Addiction]]
-	Examining common misunderstandings about addiction and replacing them with a more balanced, research-informed perspective.
+- [[5. Why Recovery Is Possible - Hope Through Understanding|Why Recovery Is Possible: Hope Through Understanding]]
 
-- [[5. Why Recovery Is Possible - Hope Through Understanding|Why Recovery Is Possible - Hope Through Understanding]]
-	Recovery is not easy, but it is possible. Understanding addiction can replace shame with hope and provide a foundation for lasting change.
+---
+
+## [[01-understanding-addiction/References|Section References]]
+
+---
+
+## Continue to the Next Category
+
+[[02-recovery-foundations/index|Continue to Recovery Foundations]]
+
+[[index|Return to the Main Knowledge Base]]
+
+---
