@@ -15,10 +15,6 @@ tags:
   - category-index
 ---
 
-# Recovery Resources & Success Stories
-
----
-
 ## Category Overview
 
 This category serves as the practical resource section of the knowledge base. It includes places to search for treatment, different recovery programs, useful books and digital tools, crisis contacts, and examples of long-term recovery.

@@ -14,10 +14,6 @@ tags:
   - category-index
 ---
 
-# Understanding Addiction
-
----
-
 ## Category Overview
 
 This category provides a basic introduction to addiction. It explains why addiction involves more than poor choices or weak willpower and examines some of the emotional, behavioral, environmental, and biological factors that can contribute to it.

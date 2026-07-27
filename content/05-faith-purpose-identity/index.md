@@ -15,10 +15,6 @@ tags:
   - category-index
 ---
 
-# Faith, Purpose, and Identity
-
----
-
 ## Category Overview
 
 This category examines recovery through a Christian perspective. It focuses on developing hope, finding meaningful purpose, separating identity from past addiction, and building healthy spiritual practices.

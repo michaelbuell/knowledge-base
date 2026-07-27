@@ -15,10 +15,6 @@ tags:
   - category-index
 ---
 
-# Mental Health & Healing
-
----
-
 ## Category Overview
 
 Mental health and addiction are often connected. Substance use may be used to escape anxiety, depression, traumatic memories, stress, or emotional pain. Those concerns may also become more noticeable after substance use stops.

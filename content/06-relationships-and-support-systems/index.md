@@ -15,10 +15,6 @@ tags:
   - category-index
 ---
 
-# Relationships & Support Systems
-
----
-
 ## Category Overview
 
 Addiction can affect families, friendships, marriages, workplaces, and other relationships. Recovery therefore involves more than stopping substance use. It may also require rebuilding trust, establishing boundaries, and developing a safer support system.

@@ -14,10 +14,6 @@ tags:
   - category-index
 ---
 
-# Recovery Foundations
-
----
-
 ## Category Overview
 
 This category focuses on the early building blocks of recovery. It moves from understanding addiction toward creating a practical plan, establishing healthier daily habits, and involving trustworthy people in the process.

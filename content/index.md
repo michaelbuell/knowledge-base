@@ -17,7 +17,6 @@ tags:
   - navigation  
   - addiction  
 ---
-# Recovery & Sobriety Resource Library
 
 The **Recovery & Sobriety Resource Library** is a connected collection of educational pages about addiction, beginning recovery, preventing relapse, addressing mental health, strengthening relationships, developing purpose, and finding support.
 

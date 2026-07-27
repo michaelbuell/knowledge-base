@@ -14,10 +14,6 @@ tags:
   - category-index
 ---
 
-# Relapse Prevention and Trigger Management
-
----
-
 ## Category Overview
 
 Relapse prevention involves recognizing risk early and having a plan before a craving or difficult situation becomes overwhelming.
