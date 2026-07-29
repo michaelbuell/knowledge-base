@@ -3,8 +3,8 @@ title: About This Knowledge Base
 type: information-page  
 summary: A description of the purpose, content, audience, organization, and features of the Recovery & Sobriety Resource Library.  
 status: complete  
-date_created: 2026-07-27  
-last_updated: 2026-07-27  
+date_created: 2026-06-22  
+last_updated: 2026-07-26  
 tags:
   - about
   - recovery
@@ -12,9 +12,6 @@ tags:
   - information-organization
   - sobriety
 ---
-# About This Knowledge Base
-
-
 ## Overview
 
 The **Recovery & Sobriety Resource Library** is a digital knowledge base containing educational information about addiction, recovery, relapse prevention, mental health, faith, relationships, and recovery support resources.
@@ -50,7 +47,7 @@ The articles use straightforward language so that the information can be underst
 
 The knowledge base is divided into the following categories:
 
-### [[01-understanding-addiction/index|index|Understanding Addiction]]
+### [[01-understanding-addiction/index|Understanding Addiction]]
 
 This category explains addiction, the addiction cycle, the connection between trauma and substance use, common misconceptions, and why recovery is possible.
 
@@ -82,15 +79,11 @@ This category provides treatment and support organizations, recommended books an
 
 Most content pages use a consistent structure that includes:
 
-- YAML frontmatter
+- Properties
     
 - A clear article title
     
 - Category and navigation links
-    
-- A related image
-    
-- An image description
     
 - An introduction to the topic
     
@@ -100,7 +93,7 @@ Most content pages use a consistent structure that includes:
     
 - Internal wikilinks
     
-- A short reflection
+- A personal reflection
     
 - Related-article links
     
@@ -130,10 +123,6 @@ Metadata fields may include:
 - Category
     
 - Summary
-    
-- Recovery stage
-    
-- Difficulty level
     
 - Completion status
     
@@ -183,28 +172,26 @@ These descriptions explain how the image relates to the topic and make the visua
 
 The knowledge base provides general educational information and links to additional support. It does not provide individualized medical diagnoses, treatment plans, medication recommendations, or emergency care.
 
-Pages involving withdrawal, relapse, overdose, suicide risk, and other urgent concerns direct readers toward professional or emergency resources. Current crisis information is collected on [[Crisis and Emergency Resources]].
+Pages involving withdrawal, relapse, overdose, suicide risk, and other urgent concerns direct readers toward professional or emergency resources. Current crisis information is collected on [[3. Crisis and Emergency Resources|Crisis and Emergency Resources]].
 
 ---
 
 ## Explore the Knowledge Base
 
-- [[Home]]
+- [[index|Home]]
     
-- [[How to Use This Library]]
+- [[01-understanding-addiction/index|Understanding Addiction]]
     
-- [[Understanding Addiction]]
+- [[02-recovery-foundations/index|Recovery Foundations]]
     
-- [[Recovery Foundations]]
+- [[03-relapse-prevention-trigger-management/index|Relapse Prevention and Trigger Management]]
     
-- [[Relapse Prevention]]
+- [[04-mental-health-and-healing/index|Mental Health & Healing]]
     
-- [[Mental Health & Healing]]
+- [[05-faith-purpose-identity/index|Faith, Purpose, and Identity]]
     
-- [[Faith, Purpose & Identity]]
+- [[06-relationships-and-support-systems/index|Relationships & Support Systems]]
     
-- [[Relationships & Support Systems]]
+- [[07-recovery-resources-success-stories/index|Recovery Resources and Success Stories]]
     
-- [[Recovery Resources & Success Stories]]
-    
-- [[02-recovery-foundations/References]]
+- [[References|References]]
